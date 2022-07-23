@@ -1,7 +1,7 @@
-import { StateCreator } from "zustand";
+import { StateCreator } from 'zustand';
 
 export type StoreState = {
-  theme: "dark" | "light";
+  theme: 'dark' | 'light';
 };
 
 export type StoreActions = {
