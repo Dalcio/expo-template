@@ -1,4 +1,4 @@
-import { StateCreator } from 'zustand';
+import {StateCreator} from 'zustand';
 
 export type StoreState = {
   theme: 'dark' | 'light';
